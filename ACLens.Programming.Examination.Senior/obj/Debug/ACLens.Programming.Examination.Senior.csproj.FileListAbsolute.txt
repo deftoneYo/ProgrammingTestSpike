@@ -1,0 +1,1 @@
+c:\git\SampleServices\ACLens.Programming.Examination.Senior\ACLens.Programming.Examination.Senior\obj\Debug\ACLens.Programming.Examination.Senior.csprojResolveAssemblyReference.cache
